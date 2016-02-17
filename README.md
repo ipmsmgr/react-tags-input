@@ -30,7 +30,7 @@ You can customize the styles by modifying the stylesheet itself or by using [les
 
 * [Showcase][1]
 
-[1]: http://dennisduong.github.io/react-tags-input/examples/
+[1]: http://dennisduong.github.io/react-tags-input/examples/index.html
 
 ## API
 
